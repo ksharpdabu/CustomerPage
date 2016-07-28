@@ -5,7 +5,7 @@
 
 
 
-这里是拿["“CustomerManagement”"](https://github.com/ksharpdabu/CustomerManagement)修改的，添加了分页查询功能
+这里是拿["CustomerManagement"](https://github.com/ksharpdabu/CustomerManagement)修改的，添加了分页查询功能
 
 
 截图  
